@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="activity_cache_entrance">
+        <item>DEFAULT.</item>
+        <item>REQUEST_NETWORK_FAILED_READ_CACHE.</item>
+        <item>NONE_CACHE_REQUEST_NETWORK</item>
+        <item>ONLY_READ_CACHE</item>
+        <item>ONLY_REQUEST_NETWORK</item>
+    </string-array>
+    <string-array name="activity_cache_entrance_des">
+        <item>NoHttp默认的缓存模式，严格遵守RFC2616协议。比如响应是Http304时，返回可用缓存。</item>
+        <item>请求网络失败后返回上次成功的数据，如果一次都没有请求成功过，则请求失败。</item>
+        <item>优先读取缓存，如果没有缓存才请求网络，请求回来后数据被缓存，下次可直接读取。</item>
+        <item>仅仅读取缓存，不去请求网络。没有缓存认为失败，异常类型为：NotFoundCacheError。</item>
+        <item>仅仅请求网络，请求网络时不会添加缓存头，请求回来的数据跟Http协议是否缓存。</item>
+    </string-array>
+    <string-array name="activity_cache_item">
+        <item>请求String</item>
+        <item>请求Image</item>
+    </string-array>
+    <string-array name="activity_cancel_item">
+        <item>与Activity/Fragment声明周期联动</item>
+        <item>取消队列中指定的某几个请求</item>
+        <item>取消队列中所有请求\n（包括已经在执行的）</item>
+    </string-array>
+    <string-array name="activity_download_item">
+        <item>下载单个文件</item>
+        <item>下载多个文件</item>
+    </string-array>
+    <string-array name="activity_https_item">
+        <item>Https证书请求</item>
+        <item>免Https证书请求</item>
+    </string-array>
+    <string-array name="activity_image_item">
+        <item>GET</item>
+        <item>POST</item>
+        <item>PUT</item>
+        <item>DELETE</item>
+        <item>OPTIONS</item>
+    </string-array>
+    <string-array name="activity_method_item">
+        <item>请求失败？</item>
+        <item>1 GET</item>
+        <item>2 POST</item>
+        <item>3 PUT</item>
+        <item>4 MOVE</item>
+        <item>5 COPY</item>
+        <item>6 DELETE</item>
+        <item>7 HEAD</item>
+        <item>8 PATCH</item>
+        <item>9 OPTIONS</item>
+        <item>10 TRACE</item>
+        <item>11 CONNECT</item>
+    </string-array>
+    <string-array name="activity_method_item_des">
+        <item>为什么COPY、MOVE、PATCH、CONNECTION等方法请求失败了？</item>
+        <item>GET请求方法，提交参数，请求指定的页面/接口信息，并返回实体主体。</item>
+        <item>POST请求方法，向指定资源提交数据（提交表单、上传文件）。数据被包含在请求体中。</item>
+        <item>PUT请求方法，从客户端向服务器传送的数据取代指定的文档的内容。</item>
+        <item>MOVE请求方法，移动资源、重命名，请求服务器将指定的资源移至另一个网络地址。</item>
+        <item>COPY请求方法，拷贝资源，请求服务器将指定的资源拷贝至另一个网络地址。</item>
+        <item>DELETE请求方法，删除资源，请求服务器删除指定的资源、数据。</item>
+        <item>HEAD请求方法，类似于get请求，只不过返回的响应中没有具体的内容，用于获取报头。</item>
+        <item>PATCH请求方法，实体中包含一个表，表中说明与该URI所表示的原内容的区别。</item>
+        <item>OPTIONS请求方法，获取服务器支持的HTTP请求方法，检查服务器的性能。</item>
+        <item>TRACE请求方法，回显服务器收到的请求，主要用于测试或诊断。</item>
+        <item>CONNECTION请求方法，HTTP/1.1协议中预留给能够将连接改为管道方式的代理服务器。</item>
+    </string-array>
+    <string-array name="activity_redirect_item">
+        <item>发起请求，允许重定向</item>
+        <item>发起请求，不允许重定向</item>
+    </string-array>
+    <string-array name="activity_start_items">
+        <item>0. 最原始使用方法</item>
+        <item>1. 请求协议演示</item>
+        <item>2. 请求图片</item>
+        <item>3. 请求Json(JsonObject, Array…)</item>
+        <item>4. 提交Json、XML包体…</item>
+        <item>5. 自定义请求对象(FastJson)</item>
+        <item>6. 五种缓存策略</item>
+        <item>7. 响应码302/303重定向</item>
+        <item>8. 文件上传演示</item>
+        <item>9. 文件下载演示</item>
+        <item>10. 如何取消请求</item>
+        <item>11. 同步请求</item>
+        <item>12. 通过代理服务器请求</item>
+        <item>13. Https请求</item>
+    </string-array>
+    <string-array name="activity_start_items_des">
+        <item>NoHttp最基本的使用方法，如果不想用我Demo的封装，想自己封装的开发者看这里的最原始用法…</item>
+        <item>Http请求协议，11种谓词：\nGET、POST、PUT、MOVE、COPY…</item>
+        <item>ImageRequest的使用，支持多种请求协议，可以携带Cookie、请求头、参数、传文件等…</item>
+        <item>用Android自带的JSONObject解析，如果需要FastJson、Gson、XML等请看自定请求对象。</item>
+        <item>提交Json、XMl、ByteArray、InputStream、自定义包体等，自定义ContentType。</item>
+        <item>用FastJson自定义的Request，用法和NoHttp自带的Request等一样，但更快更简单。</item>
+        <item>没有缓存才请求网络、请求网络失败返回缓存、只请求网络、只读取缓存、Http标准协议。</item>
+        <item>响应码301/302/303/307重定向，支持单个重定向、多级重定向嵌套，通过接口禁用重定向等。</item>
+        <item>支持大文件、多文件、图片、二进制流等的上传，通过Binary接口，支持进度通知，取消上传等。</item>
+        <item>文件下载演示，多文件下载，断点续传下载，暂停下载等，有错误、进度等通知开发者。</item>
+        <item>支持Activity、Fragment生命周期联动，支持同时取消多个请求，支持根据sign取消指定请求。</item>
+        <item>在子线程直接用NoHttp访问网络，同步拿到结果，开发者可以结合RxJava封装自己的请求框架。</item>
+        <item>给请求设置代理服务器地址和端口通过代理服务器访问网络，比如可以通过自己电脑抓包等。</item>
+        <item>SSL证书、自签名证书、免证书Https访问等，使用Java通用API SocketFactory设置即可。</item>
+    </string-array>
+    <string-array name="activity_upload_item">
+        <item>上传单个文件</item>
+        <item>上传多个文件</item>
+        <item>上传文件List</item>
+        <item>从相册选择图片（事例）</item>
+    </string-array>
+    <string name="app_name">NoHttp演示</string>
+    <string name="cancel">取消</string>
+    <string name="confirm">确定</string>
+    <string name="delete_succeed">删除成功</string>
+    <string name="download_delete">删除文件</string>
+    <string name="download_error">下载出错了：%1$s</string>
+    <string name="download_error_argument">下载参数错误。</string>
+    <string name="download_error_network">网络不可用，请检查网络！</string>
+    <string name="download_error_server">服务器数据错误！</string>
+    <string name="download_error_space">存储卡空间不足！</string>
+    <string name="download_error_storage">存储卡错误，请检查存储卡！</string>
+    <string name="download_error_timeout">下载超时！</string>
+    <string name="download_error_un">未知错误。</string>
+    <string name="download_error_un_know_host">找不到服务器。</string>
+    <string name="download_error_url">URL地址错误。</string>
+    <string name="download_mobile_data_tip">多任务下载四个文件，最好用WIFI测试喔。</string>
+    <string name="download_progress">已下载：%1$d</string>
+    <string name="download_start">开始下载</string>
+    <string name="download_status_again_download">再次尝试</string>
+    <string name="download_status_be_pause">下载被暂停</string>
+    <string name="download_status_finish">下载完成！</string>
+    <string name="download_status_pause">暂停</string>
+    <string name="download_status_re_download">重新下载</string>
+    <string name="download_status_resume">继续下载</string>
+    <string name="error_not_found_cache">没有找到缓存.</string>
+    <string name="error_not_found_server">未发现指定服务器，清切换网络后重试。</string>
+    <string name="error_parse_data_error">解析数据时发生错误。</string>
+    <string name="error_please_check_network">请检查网络。</string>
+    <string name="error_response_code">服务器响应码%1$d</string>
+    <string name="error_response_code_dex">服务器响应码%1$d，如果你们服务器在这种情况下也返回数据你可以处理。</string>
+    <string name="error_system_unsupport_method">系统不支持的请求方法。</string>
+    <string name="error_timeout">请求超时，网络不好或者服务器不稳定。</string>
+    <string name="error_unknow">位置错误。</string>
+    <string name="error_url_error">URL错误。</string>
+    <string name="know">知道了</string>
+    <string name="method_request_failed">有的方法为什么请求失败？</string>
+    <string name="method_request_failed_reason">在RFC2616中规定了Http1.1支持的请求方法，有些服务器、客户端(Android系统)不支持某些请求方法，所以请求失败是正常的，但是我们还是要遵守协议，推荐服务器和客户端都支持，这是非常好的设计和体验。</string>
+    <string name="no_operation_des">请看本Activity的代码和注释</string>
+    <string name="request_cache_only_read_cache_failed">缓存模式是Only_Read_Cache，但是没有找到缓存。</string>
+    <string name="request_cache_request_failed_read_cache_tip">具体的可以看看代码，仅仅一句话设置缓存模式就可以了，测试的朋友，可以先成功请求一次，然后断网再请求，就会返回缓存啦！</string>
+    <string name="request_failed">请求失败</string>
+    <string name="request_fast_json">自定义FastJson请求</string>
+    <string name="request_from_cache">结果来自缓存</string>
+    <string name="request_from_network">结果来自网络</string>
+    <string name="request_json_array">JsonArray对象</string>
+    <string name="request_json_body_input_tip">请求输入提交的json。</string>
+    <string name="request_json_object">JsonObject对象</string>
+    <string name="request_json_result">请求方法：%1$s\n请求地址：%2$s\n响应数据：%3$s\n业务状态码：%4$s。</string>
+    <string name="request_method_head">请求方法为HEAD，没有响应内容。</string>
+    <string name="request_method_not_allow">请求的方法被不服务器允许。</string>
+    <string name="request_original_result">响应码：%1$d\n花费时间：%2$d毫秒。</string>
+    <string name="request_redirect_location">被重定向到URL：%1$s。</string>
+    <string name="request_start">发起请求</string>
+    <string name="request_succeed">请求成功</string>
+    <string name="request_succeed_head">请求成功, 请求方式为HEAD, 没有响应内容。</string>
+    <string name="tip">提示</string>
+    <string name="title_cache_activity">五种缓存策略</string>
+    <string name="title_cache_http_activity">Http标准协议的缓存</string>
+    <string name="title_cache_none_request_network_activity">没有缓存才去请求网络</string>
+    <string name="title_cache_only_read_cache">仅仅读取缓存</string>
+    <string name="title_cache_only_request_network">仅仅请求网络</string>
+    <string name="title_cache_request_failed_read_cache_activity">请求网络失败返回缓存</string>
+    <string name="title_cancel_activity">如何取消请求</string>
+    <string name="title_cancel_all_activity">取消队列中所有请求</string>
+    <string name="title_cancel_linkage_activity">和Activity/Fragment声明周期联动</string>
+    <string name="title_cancel_sign_activity">取消指定的某几个请求</string>
+    <string name="title_download_activity">文件下载</string>
+    <string name="title_download_list_activity">多个文件下载</string>
+    <string name="title_download_single_activity">单个文件下载</string>
+    <string name="title_fast_json_activity">基于FastJson的自定义请求</string>
+    <string name="title_https_activity">Https请求演示</string>
+    <string name="title_image_activity">NoHttp请求图片</string>
+    <string name="title_json_activity">JsonObject、JsonArray演示</string>
+    <string name="title_method_activity">各种请求协议演示</string>
+    <string name="title_original_activity">NoHttp原始用法</string>
+    <string name="title_post_body_activity">POST一段JSON、自定包体</string>
+    <string name="title_proxy_activity">通过代理请求服务器</string>
+    <string name="title_redirect_activity">响应码300…重定向</string>
+    <string name="title_sync_activity">同步请求</string>
+    <string name="title_upload_activity">文件上传</string>
+    <string name="title_upload_album">选择相册图片上传</string>
+    <string name="title_upload_file_list_activity">文件List上传</string>
+    <string name="title_upload_multi_activity">多个文件上传</string>
+    <string name="title_upload_single_activity">单个文件上传</string>
+    <string name="upload_cancel">上传被取消</string>
+    <string name="upload_error">上传发生错误</string>
+    <string name="upload_failed">上传失败</string>
+    <string name="upload_file_select_album">选择图片</string>
+    <string name="upload_file_select_album_null">请选择图片</string>
+    <string name="upload_file_select_album_null_again">文件不存在，请重新选择图片</string>
+    <string name="upload_file_status">文件状态：</string>
+    <string name="upload_file_status_wait">等待操作…</string>
+    <string name="upload_start">开始上传</string>
+    <string name="upload_succeed">上传完毕</string>
+    <string name="wait_dialog_title">正在请求，请稍后…</string>
+</resources>

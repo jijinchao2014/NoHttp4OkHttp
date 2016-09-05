@@ -1,0 +1,377 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:2:1-146:12
+	package
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:3:5-43
+		INJECTED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:5:5-80
+MERGED from [com.yanzhenjie.nohttp:nohttp-okhttp:1.0.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.yanzhenjie.nohttp\nohttp-okhttp\1.0.0\AndroidManifest.xml:9:5-80
+MERGED from [com.yolanda.nohttp:nohttp:1.0.6] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.yolanda.nohttp\nohttp\1.0.6\AndroidManifest.xml:9:5-80
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:5:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:6:5-81
+MERGED from [com.yanzhenjie.nohttp:nohttp-okhttp:1.0.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.yanzhenjie.nohttp\nohttp-okhttp\1.0.0\AndroidManifest.xml:10:5-81
+MERGED from [com.yolanda.nohttp:nohttp:1.0.6] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.yolanda.nohttp\nohttp\1.0.6\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:6:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:7:5-84
+MERGED from [com.yanzhenjie.nohttp:nohttp-okhttp:1.0.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.yanzhenjie.nohttp\nohttp-okhttp\1.0.0\AndroidManifest.xml:11:5-84
+MERGED from [com.yolanda.nohttp:nohttp:1.0.6] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.yolanda.nohttp\nohttp\1.0.6\AndroidManifest.xml:11:5-84
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:7:22-81
+uses-permission#android.permission.INTERNET
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:8:5-67
+MERGED from [com.yanzhenjie.nohttp:nohttp-okhttp:1.0.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.yanzhenjie.nohttp\nohttp-okhttp\1.0.0\AndroidManifest.xml:12:5-67
+MERGED from [com.yolanda.nohttp:nohttp:1.0.6] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.yolanda.nohttp\nohttp\1.0.6\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:8:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:9:5-79
+MERGED from [com.yanzhenjie.nohttp:nohttp-okhttp:1.0.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.yanzhenjie.nohttp\nohttp-okhttp\1.0.0\AndroidManifest.xml:13:5-79
+MERGED from [com.yolanda.nohttp:nohttp:1.0.6] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.yolanda.nohttp\nohttp\1.0.6\AndroidManifest.xml:13:5-79
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:10:5-79
+MERGED from [com.yanzhenjie.nohttp:nohttp-okhttp:1.0.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.yanzhenjie.nohttp\nohttp-okhttp\1.0.0\AndroidManifest.xml:14:5-79
+MERGED from [com.yolanda.nohttp:nohttp:1.0.6] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.yolanda.nohttp\nohttp\1.0.6\AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:10:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:11:5-76
+MERGED from [com.yanzhenjie.nohttp:nohttp-okhttp:1.0.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.yanzhenjie.nohttp\nohttp-okhttp\1.0.0\AndroidManifest.xml:15:5-76
+MERGED from [com.yolanda.nohttp:nohttp:1.0.6] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.yolanda.nohttp\nohttp\1.0.6\AndroidManifest.xml:15:5-76
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:12:5-86
+MERGED from [com.yanzhenjie.nohttp:nohttp-okhttp:1.0.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.yanzhenjie.nohttp\nohttp-okhttp\1.0.0\AndroidManifest.xml:16:5-86
+MERGED from [com.yolanda.nohttp:nohttp:1.0.6] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.yolanda.nohttp\nohttp\1.0.6\AndroidManifest.xml:16:5-86
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:12:22-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:13:5-76
+MERGED from [com.yanzhenjie.nohttp:nohttp-okhttp:1.0.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.yanzhenjie.nohttp\nohttp-okhttp\1.0.0\AndroidManifest.xml:17:5-76
+MERGED from [com.yolanda.nohttp:nohttp:1.0.6] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.yolanda.nohttp\nohttp\1.0.6\AndroidManifest.xml:17:5-76
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:13:22-73
+application
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:15:5-144:19
+MERGED from [com.android.support:appcompat-v7:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:cardview-v7:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:19:9-41
+	android:allowBackup
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:17:9-35
+	android:icon
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:18:9-43
+	android:theme
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:20:9-47
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:16:9-36
+activity#com.yanzhenjie.nohttp.sample.activity.StartActivity
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:21:9-30:20
+	android:label
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:23:13-45
+	android:theme
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:24:13-58
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:22:13-51
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:25:13-29:29
+action#android.intent.action.MAIN
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:26:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:28:17-77
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:28:27-74
+activity#com.yanzhenjie.nohttp.sample.activity.OriginalActivity
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:31:9-34:54
+	android:label
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:33:13-60
+	android:theme
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:34:13-51
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:32:13-54
+activity#com.yanzhenjie.nohttp.sample.activity.MethodActivity
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:35:9-38:54
+	android:label
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:37:13-58
+	android:theme
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:38:13-51
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:36:13-52
+activity#com.yanzhenjie.nohttp.sample.activity.ImageActivity
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:39:9-42:54
+	android:label
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:41:13-57
+	android:theme
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:42:13-51
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:40:13-51
+activity#com.yanzhenjie.nohttp.sample.activity.json.JsonActivity
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:43:9-46:54
+	android:label
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:45:13-56
+	android:theme
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:46:13-51
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:44:13-55
+activity#com.yanzhenjie.nohttp.sample.activity.PostBodyActivity
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:47:9-51:73
+	android:label
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:49:13-61
+	android:windowSoftInputMode
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:51:13-70
+	android:theme
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:50:13-51
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:48:13-54
+activity#com.yanzhenjie.nohttp.sample.activity.json.FastJsonActivity
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:52:9-55:54
+	android:label
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:54:13-61
+	android:theme
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:55:13-51
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:53:13-59
+activity#com.yanzhenjie.nohttp.sample.activity.cache.CacheActivity
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:56:9-59:54
+	android:label
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:58:13-57
+	android:theme
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:59:13-51
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:57:13-57
+activity#com.yanzhenjie.nohttp.sample.activity.cache.CacheHttpActivity
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:60:9-63:54
+	android:label
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:62:13-62
+	android:theme
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:63:13-51
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:61:13-61
+activity#com.yanzhenjie.nohttp.sample.activity.cache.CacheRequestFailedReadCacheActivity
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:64:9-67:54
+	android:label
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:66:13-83
+	android:theme
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:67:13-51
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:65:13-79
+activity#com.yanzhenjie.nohttp.sample.activity.cache.CacheNoneCacheRequestNetWorkActivity
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:68:9-71:54
+	android:label
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:70:13-78
+	android:theme
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:71:13-51
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:69:13-80
+activity#com.yanzhenjie.nohttp.sample.activity.cache.CacheOnlyReadCacheActivity
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:72:9-75:54
+	android:label
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:74:13-64
+	android:theme
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:75:13-51
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:73:13-70
+activity#com.yanzhenjie.nohttp.sample.activity.cache.CacheOnlyRequestNetworkActivity
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:76:9-79:54
+	android:label
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:78:13-69
+	android:theme
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:79:13-51
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:77:13-75
+activity#com.yanzhenjie.nohttp.sample.activity.RedirectActivity
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:80:9-83:54
+	android:label
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:82:13-60
+	android:theme
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:83:13-51
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:81:13-54
+activity#com.yanzhenjie.nohttp.sample.activity.upload.UploadFileActivity
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:84:9-87:54
+	android:label
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:86:13-58
+	android:theme
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:87:13-51
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:85:13-63
+activity#com.yanzhenjie.nohttp.sample.activity.upload.UploadSingleFileActivity
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:88:9-91:54
+	android:label
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:90:13-65
+	android:theme
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:91:13-51
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:89:13-69
+activity#com.yanzhenjie.nohttp.sample.activity.upload.UploadMultiFileActivity
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:92:9-95:54
+	android:label
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:94:13-64
+	android:theme
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:95:13-51
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:93:13-68
+activity#com.yanzhenjie.nohttp.sample.activity.upload.UploadFileListActivity
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:96:9-99:54
+	android:label
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:98:13-68
+	android:theme
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:99:13-51
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:97:13-67
+activity#com.yanzhenjie.nohttp.sample.activity.upload.UploadAlbumActivity
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:100:9-103:54
+	android:label
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:102:13-55
+	android:theme
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:103:13-51
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:101:13-64
+activity#com.yanzhenjie.nohttp.sample.activity.download.DownloadActivity
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:104:9-107:54
+	android:label
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:106:13-60
+	android:theme
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:107:13-51
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:105:13-63
+activity#com.yanzhenjie.nohttp.sample.activity.download.DownloadSignleFileActivity
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:108:9-111:54
+	android:label
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:110:13-67
+	android:theme
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:111:13-51
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:109:13-73
+activity#com.yanzhenjie.nohttp.sample.activity.download.DownloadFileListActivity
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:112:9-115:54
+	android:label
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:114:13-65
+	android:theme
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:115:13-51
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:113:13-71
+activity#com.yanzhenjie.nohttp.sample.activity.cancel.CancelActivity
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:116:9-119:54
+	android:label
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:118:13-58
+	android:theme
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:119:13-51
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:117:13-59
+activity#com.yanzhenjie.nohttp.sample.activity.cancel.CancelLinkageActivity
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:120:9-123:54
+	android:label
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:122:13-66
+	android:theme
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:123:13-51
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:121:13-66
+activity#com.yanzhenjie.nohttp.sample.activity.cancel.CancelSignActivity
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:124:9-127:54
+	android:label
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:126:13-63
+	android:theme
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:127:13-51
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:125:13-63
+activity#com.yanzhenjie.nohttp.sample.activity.cancel.CancelAllActivity
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:128:9-131:54
+	android:label
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:130:13-62
+	android:theme
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:131:13-51
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:129:13-62
+activity#com.yanzhenjie.nohttp.sample.activity.SyncActivity
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:132:9-135:54
+	android:label
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:134:13-56
+	android:theme
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:135:13-51
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:133:13-50
+activity#com.yanzhenjie.nohttp.sample.activity.ProXYActivity
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:136:9-139:54
+	android:label
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:138:13-57
+	android:theme
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:139:13-51
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:137:13-51
+activity#com.yanzhenjie.nohttp.sample.activity.HttpsActivity
+ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:140:9-143:54
+	android:label
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:142:13-57
+	android:theme
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:143:13-51
+	android:name
+		ADDED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml:141:13-51
+uses-sdk
+INJECTED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.yanzhenjie.nohttp:nohttp-okhttp:1.0.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.yanzhenjie.nohttp\nohttp-okhttp\1.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.yolanda.nohttp:nohttp:1.0.6] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.yolanda.nohttp\nohttp\1.0.6\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\design\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml
+		INJECTED from D:\Workspace\OpenSourceWork\NoHttp4OkHttp\sample\src\main\AndroidManifest.xml

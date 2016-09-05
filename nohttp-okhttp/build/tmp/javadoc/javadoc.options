@@ -1,0 +1,8 @@
+-classpath 'D:\\Develope\\android-sdk-windows\\platforms\\android-23\\android.jar'
+-d 'D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\nohttp-okhttp\\build\\docs\\javadoc'
+-doctitle 'nohttp-okhttp 1.0.0 API'
+-quiet 
+-windowtitle 'nohttp-okhttp 1.0.0 API'
+'D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\nohttp-okhttp\\src\\main\\java\\com\\yanzhenjie\\nohttp\\okhttp\\NoOkHttp.java'
+'D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\nohttp-okhttp\\src\\main\\java\\com\\yanzhenjie\\nohttp\\okhttp\\OkHttpRestConnection.java'
+'D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\nohttp-okhttp\\src\\main\\java\\com\\yanzhenjie\\nohttp\\okhttp\\URLConnectionFactory.java'

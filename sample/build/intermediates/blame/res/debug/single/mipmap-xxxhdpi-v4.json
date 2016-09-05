@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\nohttp_delete.png",
+        "source": "D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\sample\\src\\main\\res\\mipmap-xxxhdpi\\nohttp_delete.png"
+    },
+    {
+        "merged": "D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\nohttp_des.png",
+        "source": "D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\sample\\src\\main\\res\\mipmap-xxxhdpi\\nohttp_des.png"
+    },
+    {
+        "merged": "D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\nohttp_trace.png",
+        "source": "D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\sample\\src\\main\\res\\mipmap-xxxhdpi\\nohttp_trace.png"
+    },
+    {
+        "merged": "D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\nohttp_patch.png",
+        "source": "D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\sample\\src\\main\\res\\mipmap-xxxhdpi\\nohttp_patch.png"
+    },
+    {
+        "merged": "D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\nohttp_get.png",
+        "source": "D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\sample\\src\\main\\res\\mipmap-xxxhdpi\\nohttp_get.png"
+    },
+    {
+        "merged": "D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\ic_launcher.png",
+        "source": "D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\sample\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\nohttp_put.png",
+        "source": "D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\sample\\src\\main\\res\\mipmap-xxxhdpi\\nohttp_put.png"
+    },
+    {
+        "merged": "D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\nohttp_post.png",
+        "source": "D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\sample\\src\\main\\res\\mipmap-xxxhdpi\\nohttp_post.png"
+    },
+    {
+        "merged": "D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\nohttp_head.png",
+        "source": "D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\sample\\src\\main\\res\\mipmap-xxxhdpi\\nohttp_head.png"
+    },
+    {
+        "merged": "D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\nohttp_options.png",
+        "source": "D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\sample\\src\\main\\res\\mipmap-xxxhdpi\\nohttp_options.png"
+    },
+    {
+        "merged": "D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\sample\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi-v4\\nohttp.png",
+        "source": "D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\sample\\src\\main\\res\\mipmap-xxxhdpi\\nohttp.png"
+    }
+]

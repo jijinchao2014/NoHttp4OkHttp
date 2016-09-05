@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\sample\\build\\intermediates\\res\\merged\\debug\\menu\\menu_download_file_single.xml",
+        "source": "D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\sample\\src\\main\\res\\menu\\menu_download_file_single.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\sample\\build\\intermediates\\res\\merged\\debug\\menu\\menu_download_file_list.xml",
+        "source": "D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\sample\\src\\main\\res\\menu\\menu_download_file_list.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\sample\\build\\intermediates\\res\\merged\\debug\\menu\\menu_cache_reqeust_failed_read_cache.xml",
+        "source": "D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\sample\\src\\main\\res\\menu\\menu_cache_reqeust_failed_read_cache.xml"
+    },
+    {
+        "merged": "D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\sample\\build\\intermediates\\res\\merged\\debug\\menu\\menu_upload_file.xml",
+        "source": "D:\\Workspace\\OpenSourceWork\\NoHttp4OkHttp\\sample\\src\\main\\res\\menu\\menu_upload_file.xml"
+    }
+]

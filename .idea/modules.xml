@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/NoHttp4OkHttp.iml" filepath="$PROJECT_DIR$/NoHttp4OkHttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttp/nohttp.iml" filepath="$PROJECT_DIR$/okhttp/nohttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nohttp-okhttp/nohttp-okhttp.iml" filepath="$PROJECT_DIR$/nohttp-okhttp/nohttp-okhttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/nohttp-okhttp/okhttp.iml" filepath="$PROJECT_DIR$/nohttp-okhttp/okhttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+    </modules>
+  </component>
+</project>
